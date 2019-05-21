@@ -1,3 +1,5 @@
+ A CentOS 7.6 container for testing purposes
+
 **Build**
 
 ```docker build -t centos-7.6 .```
